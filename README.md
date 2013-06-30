@@ -1,4 +1,5 @@
-linux_stuff
+linux\_stuff
 ===========
 
-Packs all things around linux
+This repo will contain any helpful (for me that is) debian config settings, snippets and other stuff.
+
